@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaswanthb13
 - 🌱 I’m currently pursuing B.tech CSE
 - 👀 I’m interested in cloud and data
-- 💞️ I’m looking to collaborate on C++, Python, Frontend
+- 💞️ Data Science
 - 📫 How to reach me: linkedin:@yaswanth13,Instagram:@itz__yash13,Facebook:@itzmeyash13
 - 😄 Pronouns: He/Him
 - ⚛ Connect With Me ⚛
