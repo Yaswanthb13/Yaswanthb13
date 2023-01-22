@@ -6,9 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚛ Connect With Me ⚛
 www.linkedin.com/in/yaswanth13/ https://www.facebook.com/itzmeyash13/ https://www.hackerrank.com/yeswanthreddy849
-<<<<<<< HEAD
 
 
-=======
 -Thanks for visiting my profile
->>>>>>> 7101d8b2d0ad2c576bcefd2b45344ac0801b01bc
