@@ -8,7 +8,6 @@
 * Spring Boot
 * REST APIs
 * SQL Databases
-* Microservices
 * DevOps Practices
 
 ☁️ DevOps & Cloud Technologies:
@@ -19,6 +18,7 @@
 * Terraform
 * Linux
 * CI/CD Pipelines
+* AWS 
 
 🤖 Currently exploring and building in:
 
